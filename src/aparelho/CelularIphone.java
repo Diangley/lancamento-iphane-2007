@@ -1,3 +1,9 @@
+package aparelho;
+
+import apps.AparelhoTelefonico;
+import apps.NavegadorWeb;
+import apps.ReprodutorMusical;
+
 public class iPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
 
     // Implementação dos métodos da interface ReprodutorMusical
